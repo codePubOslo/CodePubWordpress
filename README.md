@@ -1,10 +1,10 @@
 
-##How to guide
+#How to guide
 
-Opprett bruker på github (hvis du ikke allerede har)
+Create a Github user (unless you already have one)
 * https://github.com/
 
-Last ned github for desktop
+Download Github for desktop
 * windows: https://windows.github.com/
 * mac: https://mac.github.com/
  
@@ -18,8 +18,7 @@ Extract wordpress-4.2.2.zip into your XAMPP htdocs folder.
 * windows: C:/xampp/htdocs/
 * mac: /Applications/XAMPP/htdocs/
 
-Clone CodePubNet repository til desktop 
-* Åpne github desktop (som du nettopp lastet ned)
-* Gå til repository for CodePubNet: https://github.com/TheWrongAlice/codepub-theme
-* Klikk på `Clone in Desktop`
-* Clone into /htdocs/wordpress/wp-content/themes/
+Clone CodePubWordpress repository to your desktop
+* Go to the repository for CodePubWordpress: https://github.com/codePubOslo/CodePubWordpress
+* Click `Clone in Desktop` (lower right hand side)
+* Save into /htdocs/wordpress/wp-content/themes/
