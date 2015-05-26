@@ -22,4 +22,4 @@ Clone CodePubNet repository til desktop
 * Åpne github desktop (som du nettopp lastet ned)
 * Gå til repository for CodePubNet: https://github.com/TheWrongAlice/codepub-theme
 * Klikk på `Clone in Desktop`
-* Se på github desktop versjonen din, om du kan se repositoriet CodePubNet til venstre er det nå klonet. hvis ikke, velg `+` i øverste hjørne til venstre og CodePubNet under fanen Clone, og velg Clone CodePubNet. 
+* Clone into /htdocs/wordpress/wp-content/themes/
