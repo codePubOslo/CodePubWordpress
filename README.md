@@ -27,4 +27,4 @@ Clone CodePubWordpress repository to your desktop
 * Save into /htdocs/wordpress/wp-content/themes/
 
 
-Thats it - the rest we will to together at the CodePub
+Thats it - the rest we will do together at the CodePub
