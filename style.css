@@ -15,7 +15,7 @@
 /* Center page horizontally */
 .menu-center,
 .page-center {
-    width: 100%;
+    width: 95%;
     max-width: 1170px;
     margin: 0 auto;
 }
@@ -32,7 +32,8 @@ body {
 .menu-bar {
     background-color: black;
 }
-.menu-bar ul, li {
+.menu-bar li {
+    display: inline-block;
 }
 
 /* Menu link style */
