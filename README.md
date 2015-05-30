@@ -25,3 +25,6 @@ Clone CodePubWordpress repository to your desktop
 * Go to the repository for CodePubWordpress: https://github.com/codePubOslo/CodePubWordpress
 * Click `Clone in Desktop` (lower right hand side)
 * Save into /htdocs/wordpress/wp-content/themes/
+
+
+Thats it - the rest we will to together at the CodePub
