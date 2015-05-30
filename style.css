@@ -30,16 +30,18 @@ body {
 
 /* Menu style */
 .menu-bar {
-    background-color: #222222;
+    background-color: black;
 }
 .menu-bar ul, li {
 }
+
+/* Menu link style */
 .menu-bar a {
     display: inline-block;
     padding-top: 1em;
     padding-bottom: 1em;
     padding-left: 0;
     padding-right: 1em;
-    color: #999999;
+    color: grey;
     text-decoration: none;
 }

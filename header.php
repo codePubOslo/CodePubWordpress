@@ -39,7 +39,7 @@
 
 
     <!-- This is the menu -->
-    <header class="menu-bar" role="banner">
+    <header class="menu-bar">
         <ul class="menu-center">
             <?php wp_list_pages('sort_column=page_title&title_li='); ?>
         </ul>
@@ -47,4 +47,4 @@
 
 
     <!-- Page starts here -->
-	<section class="page-center" role="main">
+	<section class="page-center">
