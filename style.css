@@ -1,0 +1,45 @@
+/*
+	Theme Name: The Code Pub
+	Theme URI: http://html5blank.com
+	Description: WordPress Theme for The Code Pub
+	Version: 1.0
+	Author: Alice Cyan Carlsson (and many others)
+	Author URI: https://github.com/TheWrongAlice
+	Tags: Code, Pub, Oslo, Meetup
+
+	License: MIT
+	License URI: http://opensource.org/licenses/mit-license.php
+*/
+
+
+/* Center page horizontally */
+.menu-center,
+.page-center {
+    width: 100%;
+    max-width: 1170px;
+    margin: 0 auto;
+}
+
+
+/* Font style */
+body {
+    font-size: 15px;
+    font-family: arial;
+}
+
+
+/* Menu style */
+.menu-bar {
+    background-color: #222222;
+}
+.menu-bar ul, li {
+}
+.menu-bar a {
+    display: inline-block;
+    padding-top: 1em;
+    padding-bottom: 1em;
+    padding-left: 0;
+    padding-right: 1em;
+    color: #999999;
+    text-decoration: none;
+}
