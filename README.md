@@ -1,14 +1,17 @@
 
 #How to guide
 
+Download and install Sublime
+* http://www.sublimetext.com/2
+
 Create a Github user (unless you already have one)
 * https://github.com/
 
-Download Github for desktop
+Download and install Github for desktop
 * windows: https://windows.github.com/
 * mac: https://mac.github.com/
  
-Download XAMPP:
+Download and install XAMPP:
 * https://www.apachefriends.org/download.html
 
 Download Wordpress:
