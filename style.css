@@ -43,6 +43,12 @@ body {
     padding-bottom: 1em;
     padding-left: 0;
     padding-right: 1em;
-    color: grey;
+    color: white;
     text-decoration: none;
+}
+
+.cp-quote {
+    font-size: 24px;
+    color: purple;
+    font-weight: bold;
 }
